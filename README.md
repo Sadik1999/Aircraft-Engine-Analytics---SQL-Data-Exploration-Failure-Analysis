@@ -1,1 +1,1 @@
-## Aircraft-Engine-Analytics---SQL-Data-Exploration-Failure-Analysis
+## Aircraft Engine Analytics - SQL Data Exploration and Failure Analysis
